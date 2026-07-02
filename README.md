@@ -24,16 +24,6 @@ The required task is to pick a **20 mm ring** from a **20 mm high platform**, pl
 
 ---
 
-## Group Members
-
-| No. | Name                                | Matric Number |
-| --- | ----------------------------------- | ------------- |
-| 1   | Abid Shahariar                      | A25KE4004     |
-| 2   | Alraimi Omar Abdullah Abdo Mohammed | A24KE4081     |
-| 3   | Awab Ammar Ismail                   | A24KE4084     |
-| 4   | Reem Loay Mohamed Ali Eltayb        | A24KE4073     |
-| 5   | Ahmed Fathelrahman Ahmed Mohamed    | A24KE4083     |
-
 ---
 
 ## Project Objectives
