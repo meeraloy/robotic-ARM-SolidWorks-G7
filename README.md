@@ -103,42 +103,6 @@ The system includes:
 
 ---
 
-## Repository Structure
-
-The repository may be arranged as follows:
-
-```text
-3DOF-Robotic-Arm/
-│
-├── README.md
-├── Report/
-│   ├── IEEE_Group7_Robotic_Arm_Final_Report.docx
-│   └── IEEE_Group7_Robotic_Arm_Final_Report.pdf
-│
-├── SolidWorks/
-│   ├── Assembly/
-│   ├── Parts/
-│   ├── Drawings/
-│   └── Pack_and_Go/
-│
-├── BOM/
-│   └── Bill_of_Materials.xlsx
-│
-├── Images/
-│   ├── Actual_Prototype/
-│   ├── CAD_Screenshots/
-│   └── Measurement_Notes/
-│
-├── Drawings/
-│   ├── Part_Drawings/
-│   ├── Assembly_Drawing/
-│   └── Exploded_Assembly_Drawing/
-│
-└── Submission_Checklist/
-```
-
----
-
 ## CAD Drawings
 
 The project includes the following SolidWorks drawing requirements:
@@ -190,38 +154,6 @@ The prototype successfully demonstrated:
 * Hook-based ring pickup and placement
 * Working rack-and-pinion base rotation
 * Practical integration of CAD design, 3D printing, and mechanical assembly
-
----
-
-## Challenges and Improvements
-
-| Challenge                                   | Solution / Improvement                                                                                    |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Loose PVC and 3D-printed socket connections | Adhesive was applied to tighten the joints                                                                |
-| Tubing disconnecting from syringe tips      | Connections were secured and checked for leakage                                                          |
-| Base sliding during arm extension           | Base was restrained during testing; future improvement includes rubber feet, clamps, or larger base plate |
-| 3D printing tolerance issues                | Glue, fitting adjustment, and careful assembly were used                                                  |
-| Limited stability under extended reach      | Future improvement includes stronger base support and better joint reinforcement                          |
-
----
-
-## Submission Notes
-
-The complete project submission should include:
-
-* Final report in Word format
-* Final report in PDF format
-* SolidWorks Pack-and-Go files
-* Part drawings
-* Assembly drawing
-* Exploded assembly drawing
-* BOM in Excel format
-* Turnitin similarity report below 40%
-* Any required lecturer-approved supporting evidence
-
-If videos are not required by the lecturer, state this clearly in the report or submission checklist.
-
----
 
 ## Important Academic Note
 
